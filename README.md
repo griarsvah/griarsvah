@@ -32,8 +32,28 @@ I'm a QA at Yandex.Eats working on the Yandex team, focused on making a better s
 
 <p align="left"><a href="https://www.github.com/GriArsVah/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></picture></a></p>
 
-
+ https://github.blog/
 
 #### Nodes
+
+
+
+```mermaid
 flowchart LR
-    git --> git-scm --> git-cli --> github-pages --> html5 --> pug-cli --> winget --> nodejs --> npm --> npx --> curl
+    github-->gitlab
+    gitlab-->github-blog
+    github-blog-->github-docs
+    github-docs-->github-pages
+    github-pages-->git-book
+    git-book-->git-scm
+    git-scm-->github-cli
+    github-cli-->github
+    click github href "https://www.github.com/" "Open this in a new tab" _blank
+    click gitlab href "https://gitlab.com/" "Open this in a new tab" _blank
+    click git-scm href "https://git-scm.com/" "Open this in a new tab" _blank
+    click github-blog href "https://github.blog/" "Open this in a new tab" _blank
+    click github-docs href "https://docs.github.com/" "Open this in a new tab" _blank
+    click github-pages href "https://pages.github.com/" "Open this in a new tab" _blank
+    click git-book href "https://www.gitbook.com/" "Open this in a new tab" _blank
+    click github-cli href "https://cli.github.com/" "Open this in a new tab" _blank
+```
