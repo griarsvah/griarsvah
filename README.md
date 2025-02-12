@@ -3,7 +3,7 @@
 **griarsvah/griarsvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vahe Grigoryan
+## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%123456&lines=Vahe+Grigoryan)](https://git.io/typing-svg)
 ===============================================================
 
 ## FrontEnder | QA Engineer
